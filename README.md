@@ -1,7 +1,8 @@
 # showScore
 
-A real-time leaderboard system built with FastAPI, PostgreSQL, Redis, and Next.js.
+A real-time leaderboard backend system built with FastAPI, PostgreSQL, and Redis.
 
-## Status
+This project demonstrates how to design scalable APIs, handle user authentication, 
+store structured data, and maintain real-time rankings using Redis.
 
-Under Construction....🏃
+Status: Under active development
